@@ -25,7 +25,7 @@ Find out the rest on your own
 # use :
 
 `chmod +x setup.sh`
-
+1
 `bash setup.sh`
 
 # run :
